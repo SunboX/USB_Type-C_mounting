@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 05c33152-eee6-4493-83db-244eb4f286ae)
+
+  (paper "A5")
+
+  (title_block
+    (title "USB Type-C Einbaubuchse")
+    (date "2024-01-15")
+    (rev "1.2")
+    (comment 1 "André Fiedler <mail@andrefiedler.de>")
+    (comment 2 "CC-BY-NC-SA 3.0")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
